@@ -1,6 +1,6 @@
 //somando em Java
 
-public class Main {
+public class Exercicio02 {
     public static void main(String[] args) {
         // criando variáveis
         int num1 = 5;
