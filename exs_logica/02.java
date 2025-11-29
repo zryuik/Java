@@ -10,7 +10,7 @@ public class Main {
         int soma = num1 + num2;
         int dim = num1 - num2;
         int multi = num1 * num2;
-        int div = num1 * num2;
+        int div = num1 / num2;
         
         System.out.println("A soma entre " + num1 + " e " + num2 + " é " + soma);
         System.out.println("A diminuição entre " + num1 + " e " + num2 + " é " + dim);
